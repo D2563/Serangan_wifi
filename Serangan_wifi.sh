@@ -7,7 +7,7 @@
 
 
 # WiFi Hacker v2.0
-# esc0rtd3w 2019
+# Hacker World 2020
 
 # https://github.com/esc0rtd3w/wifi-hacker/
 
