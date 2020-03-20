@@ -6,10 +6,10 @@
 ############################################################################
 
 
-# WiFi Hacker v2.0
-# esc0rtd3w 2019
+# WiFi Hacker v1.0
+# Hacker World 2020
 
-# https://github.com/esc0rtd3w/wifi-hacker/
+# https://github.com/D2563/Serangan_wifi
 
 # Uses parts of the aircrack-ng suite, reaver, wifite, and many other tools
 
@@ -1092,7 +1092,7 @@ showDisclaimer(){
 	echo ""
 	echo ""
 	echo ""
-	echo "PLEASE PRESS "\""Y"\"" AND ENTER TO ACCEPT AND CONTINUE"
+	echo "PLEASE PRESS "\""Y or y"\"" AND ENTER TO ACCEPT AND CONTINUE"
 	echo ""
 
 	read agreeToDisclaimer
@@ -1167,7 +1167,7 @@ isUnreleased(){
 	echo ""
 	echo ""
 	$white
-	echo "PLEASE PRESS "\""Y"\"" AND ENTER TO ACCEPT AND CONTINUE"
+	echo "PLEASE PRESS "\""Y or y"\"" AND ENTER TO ACCEPT AND CONTINUE"
 	echo ""
 
 	read agreeToDisclaimer
@@ -1223,7 +1223,7 @@ banner(){
 	clear
 	$blue
 	echo "---------------------    ****************************************************************    ----------------------"
-	echo "|  [M] Main Menu    |    * WiFi Hacker v$versionBase  /  esc0rtd3w 2019  /  github.com/esc0rtd3w *    | [X] Exit           |"
+	echo "|  [M] Main Menu    |    * WiFi Hacker v$versionBase  /  Hacker World 2020/  github.com/D2563 *    | [X] Exit           |"
 	echo "---------------------    ****************************************************************    ----------------------"
 	$yellow
 	echo "-------------------------------------------------------------------------------------------------------------------"
@@ -1244,7 +1244,7 @@ bannerNoMenu(){
 	clear
 	$blue
 	echo "---------------------    ****************************************************************    ----------------------"
-	echo "|  [ CTRL+C ] Main  |    * WiFi Hacker v$versionBase  /  esc0rtd3w 2019  /  github.com/esc0rtd3w *    | [CTRL+C x2 ] Exit  |"
+	echo "|  [ CTRL+C ] Main  |    * WiFi Hacker v$versionBase  /  Hacker World 2020/  github.com/D2563 *    | [CTRL+C x2 ] Exit  |"
 	echo "---------------------    ****************************************************************    ----------------------"
 	$yellow
 	echo "-------------------------------------------------------------------------------------------------------------------"
@@ -1265,7 +1265,7 @@ bannerMain(){
 	clear
 	$blue
 	echo "---------------------    ****************************************************************    ----------------------"
-	echo "|  [ ]              |    * WiFi Hacker v$versionBase  /  esc0rtd3w 2019  /  github.com/esc0rtd3w *    | [CTRL+C    ] Exit  |"
+	echo "|  [ ]              |    * WiFi Hacker v$versionBase  /  Hacker World 2020/  github.com/D2563 *    | [CTRL+C    ] Exit  |"
 	echo "---------------------    ****************************************************************    ----------------------"
 	echo "-------------------------------------------------------------------------------------------------------------------"
 	$yellow
@@ -1285,7 +1285,7 @@ bannerMenu(){
 	clear
 	$blue
 	echo "---------------------    ****************************************************************    ----------------------"
-	echo "|  [ ]              |    * WiFi Hacker v$versionBase  /  esc0rtd3w 2019  /  github.com/esc0rtd3w *    | [CTRL+C    ] Exit  |"
+	echo "|  [ ]              |    * WiFi Hacker v$versionBase  /  Hacker World 2020/  github.com/D2563 *    | [CTRL+C    ] Exit  |"
 	echo "---------------------    ****************************************************************    ----------------------"
 	$yellow
 	echo "-------------------------------------------------------------------------------------------------------------------"
@@ -1305,7 +1305,7 @@ bannerSlim(){
 	clear
 	$blue
 	echo "---------------------    ****************************************************************    ----------------------"
-	echo "|  [ ]              |    * WiFi Hacker v$versionBase  /  esc0rtd3w 2019  /  github.com/esc0rtd3w *    | [CTRL+C    ] Exit  |"
+	echo "|  [ ]              |    * WiFi Hacker v$versionBase  /  Hacker World 2020/  github.com/D2563 *    | [CTRL+C    ] Exit  |"
 	echo "---------------------    ****************************************************************    ----------------------"
 	$white
 
@@ -1339,13 +1339,13 @@ bannerExit(){
 	$blue
 	echo "Thank You For Playing Fair ;)"
 	echo ""
-	echo "esc0rtd3w 2019"
+	echo "Hacker World 2020"
 	echo ""
 	echo ""
 	$cyan
 	echo "View My Other Projects On GitHub:"
 	echo ""
-	echo "https://github.com/esc0rtd3w"
+	echo "https://github.com/D2563"
 	echo ""
 	echo ""
 
@@ -1376,13 +1376,13 @@ bannerExitUpdate(){
 	$blue
 	echo "Thank You For Playing Fair ;)"
 	echo ""
-	echo "esc0rtd3w 2019"
+	echo "Hacker World 2020"
 	echo ""
 	echo ""
 	$cyan
 	echo "View My Other Projects On GitHub:"
 	echo ""
-	echo "https://github.com/esc0rtd3w"
+	echo "https://github.com/D2563"
 	echo ""
 	echo ""
 
